@@ -1,6 +1,9 @@
+![](http://i.picasion.com/pic90/6d773e61f6fd97885b515166f053af16.gif)
+# Space App Schallenge 2020
+
 ## airdialisis - filter air
 
-Desenvolvemos uma tecnologia Iot, que monitora e realiza o tratamento do ar no ambiente interno.Ao mesmo tempo realizamos uma coleta de dados e disponibilizamos em um plataforma esses recurso para que todos tenham acesso a um ar de qualidade.
+Desenvolvemos uma tecnologia Iot, que monitora e realiza o tratamento do ar no ambiente interno. Ao mesmo tempo realizamos uma coleta de dados e disponibilizamos em um plataforma esses recurso para que todos tenham acesso a um ar de qualidade.
 
 # IOT Solution
 ![](http://i.picasion.com/pic90/b5183a1e0991fe85f0dc04ba7163afe9.gif)
